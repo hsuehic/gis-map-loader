@@ -1,0 +1,24 @@
+{
+  "name": "gis-map-loader",
+  "version": "0.0.1",
+  "description": "gis mpa loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hsuehic/gis-map-loader.git"
+  },
+  "keywords": [
+    "gis",
+    "map",
+    "webpack"
+  ],
+  "author": "Richard (xiaoweihsueh@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsuehic/gis-map-loader/issues"
+  },
+  "homepage": "https://github.com/hsuehic/gis-map-loader#readme"
+}
